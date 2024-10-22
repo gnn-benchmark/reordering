@@ -10,12 +10,12 @@ This repository contains the logs and the code to create the plots and tables re
 # Installation
 
 ##  Clone the repository 
-Please find our code here [https://github.com/nikolaimerkel/reordering](https://github.com/nikolaimerkel/reordering).
+Please find our code here [https://github.com/gnn-benchmark/reordering](https://github.com/gnn-benchmark/reordering).
 
 Use the following commands to clone the code and to store the code in **~/graph-reordering**. 
 ```
 cd
-git clone https://github.com/nikolaimerkel/reordering
+git clone https://github.com/gnn-benchmark/reordering
 mv reordering graph-reordering
 cd graph-reordering
 ```
