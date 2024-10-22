@@ -1,5 +1,6 @@
 # Can Graph Reordering Speed Up Graph Neural Network Training? An Experimental Study
-This work is currently in submission at VLDB 2025.
+This work is accepted at VLDB 2025.
+You can find the Pre-print [here](https://arxiv.org/abs/2409.11129)
 
 Please do not hesitate to write us (nikolai.merkel@tum.de) if you need any help to run or reproduce results. 
 
